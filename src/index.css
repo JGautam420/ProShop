@@ -1,0 +1,12 @@
+#body{
+
+    min-height: 85vh;
+}
+footer{
+    margin: 0.4rem 0;
+    text-align: center;
+}
+
+.pointer{
+    cursor: pointer;
+}
